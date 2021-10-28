@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"KittyInu_flat.sol": "Context"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"KittyInu_flat.sol": {
+			"keccak256": "0xabdfe2a5e3794673bc986d7e9ac85e660fb410832c81014058acccc7b08df1d8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5788b55ea11532433b88c51cd87378a5146dd5c8716810ad568ab2906c5f7045",
+				"dweb:/ipfs/QmTP3ZixBJ75gFN69HCFTzw8CQ5Cs4112a2WBhmoYzmd9m"
+			]
+		}
+	},
+	"version": 1
+}
